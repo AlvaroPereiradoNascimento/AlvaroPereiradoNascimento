@@ -2,15 +2,17 @@
 <div align="center" style="background-color:black;">
   <a href="https://github.com/AlvaroPereiradoNascimento
 ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroPereiradoNascimento&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPereiradoNascimento&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroPereiradoNascimento&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPereiradoNascimento&layout=compact&langs_count=7&theme=highcontrast&locale=en"/>
 </div>
 <div style="display: inline_block"><br>
   
 <div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/936449245177872426/936450260077789214/giifed.gif?width=456&height=456">
   </div>
-  <h3>Linguagens de  Programação e hipertextos</h3><hr size="10" width="80%" align="center" noshade>
+  <h3>Linguagens de  Programação e hipertextos</h3>
+  
+  ##
   
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -22,7 +24,10 @@
 
   <br><br>
   
-  <h3>Ferramentas e Frameworks</h3><hr size="10" width="80%" align="center" noshade>
+  <h3>Ferramentas e Frameworks</h3>
+  
+  ##
+  
   <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
@@ -43,13 +48,19 @@
   <img align="center" alt="Maven" height="30" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png">
   <img align="center" alt="Bash" height="30" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   
-  
   <br><br>
-  <h3>Nuvem</h3><hr size="10" width="80%" align="center" noshade>
-  <img align="center" alt="heroku" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
+  <h3>Nuvem</h3>
+  
+  ##
+  
+  
+  <img align="center" alt="Bash" height="30" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
   
  <br><br>
-  <h3>Banco de dados</h3><hr size="10" width="80%" align="center" noshade>
+  <h3>Banco de dados</h3>
+  
+  ##
+  
   <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
@@ -57,15 +68,30 @@
  <br><br>
   
   
-  <h3>Contatos</h3><hr size="10" width="80%" align="center" noshade>
+  <h3>Contatos</h3>
+  
+  ##
+  
 <div>
-  <a href = "mailto:alvaro.nascimentoapn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/álvaro-nascimento-a937466a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
+  <a href = "mailto:alvaro.nascimentoapn@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/álvaro-nascimento-a937466a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <br><br>
  
   ![Snake animation](https://github.com/AlvaroPereiradoNascimento/AlvaroPereiradoNascimento/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <div>
-  <h3>Repositórios</h3><hr size="10" width="80%" align="center" noshade>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  <h3>Repositórios</h3>
+  
+  ##
+  
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=spring-framework-primeiros-projetos&repo=SpringScurityTComJWT&theme=highcontrast"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=spring-framework-primeiros-projetos&repo=QRCode-generator&theme=highcontrast&locale=en"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=htmlprojetospring&repo=login&theme=highcontrast&locale=en"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=sistemasdistribuidoswebservices&repo=Urnaeletronica&theme=highcontrast&locale=en"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro-net&repo=APIComSignalR&theme=highcontrast&locale=en"/>
   </div>
