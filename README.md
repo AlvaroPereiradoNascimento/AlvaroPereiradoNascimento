@@ -1,4 +1,4 @@
-## Oiii eu sou o Alvaro, programador Backend!
+## Oiii eu sou o Alvaro, programador Back-end!
 <div align="center" style="background-color:black;">
   <a href="https://github.com/AlvaroPereiradoNascimento
 ">
