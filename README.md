@@ -7,7 +7,9 @@
 </div>
 <div style="display: inline_block"><br>
   
+<div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/936449245177872426/936450260077789214/giifed.gif?width=456&height=456">
+  </div>
   <h3>Linguagens de  Programação e hipertextos</h3><hr size="10" width="80%" align="center" noshade>
   
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
