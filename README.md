@@ -115,4 +115,28 @@
   <a href="https://github.com/Alvaro-net/ShowResponse">
     <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro-net&repo=ShowResponse&theme=highcontrast&locale=en"/>
   </a>
+  <a href="https://github.com/UnitTestPersonal/Manualtest">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
+  </a>
+  <a href="https://github.com/UnitTestPersonal/Manualtest">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
+  </a>
+  <a href="https://github.com/cobolfatec/atividade1">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade1&theme=highcontrast&locale=en"/>
+  </a>
+  <a href="https://github.com/cobolfatec/atividade2">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade2&theme=highcontrast&locale=en"/>
+  <a>
+  </a href="https://github.com/cobolfatec/atividade3">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade3&theme=highcontrast&locale=en"/>
+  </a>
+  <a href="https://github.com/cobolfatec/atividade4">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade4&theme=highcontrast&locale=en"/>
+  </a>
+  <a href="https://github.com/cobolfatec/atividade5">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade5&theme=highcontrast&locale=en"/>
+  </a>
+  <a href="https://github.com/cobolfatec/atividade6">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade6&theme=highcontrast&locale=en"/>
+  </a>
   </div>
