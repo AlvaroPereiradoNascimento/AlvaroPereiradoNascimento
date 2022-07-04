@@ -137,6 +137,6 @@
     <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade5&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/cobolfatec/atividade6">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade6&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade-6&theme=highcontrast&locale=en"/>
   </a>
   </div>
