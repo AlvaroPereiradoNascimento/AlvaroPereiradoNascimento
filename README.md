@@ -2,8 +2,8 @@
 <div align="center" style="background-color:black;">
   <a href="https://github.com/AlvaroPereiradoNascimento
 ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroPereiradoNascimento&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=en"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPereiradoNascimento&layout=compact&langs_count=7&theme=highcontrast&locale=en"/>
+  <img height="180em" src="https://github-readme-stats-iota-three-69.vercel.app/api?username=AlvaroPereiradoNascimento&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=en"/>
+  <img height="180em" src="https://github-readme-stats-iota-three-69.vercel.app/api/top-langs/?username=AlvaroPereiradoNascimento&layout=compact&langs_count=7&theme=highcontrast&locale=en"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -89,54 +89,54 @@
   ##
   
   <a href ="https://github.com/spring-framework-primeiros-projetos/SpringScurityTComJWT">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=spring-framework-primeiros-projetos&repo=SpringScurityTComJWT&theme=highcontrast"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=spring-framework-primeiros-projetos&repo=SpringScurityTComJWT&theme=highcontrast"/>
   </a>
   <a href ="https://github.com/spring-framework-primeiros-projetos/QRCode-generator">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=spring-framework-primeiros-projetos&repo=QRCode-generator&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=spring-framework-primeiros-projetos&repo=QRCode-generator&theme=highcontrast&locale=en"/>
   </a>
   <a href ="https://github.com/htmlprojetospring/login">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=htmlprojetospring&repo=login&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=htmlprojetospring&repo=login&theme=highcontrast&locale=en"/>
   </a>
   <a href ="https://github.com/sistemasdistribuidoswebservices/Urnaeletronica">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=sistemasdistribuidoswebservices&repo=Urnaeletronica&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=sistemasdistribuidoswebservices&repo=Urnaeletronica&theme=highcontrast&locale=en"/>
   </a>
   <a href ="https://github.com/Alvaro-net/APIComSignalR">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro-net&repo=APIComSignalR&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=Alvaro-net&repo=APIComSignalR&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/UnitTestPersonal/Manualtest">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/Alvaro-net/wpf">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro-net&repo=wpf&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=Alvaro-net&repo=wpf&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/Alvaro-net/CustomDialogs">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro-net&repo=CustomDialogs&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=Alvaro-net&repo=CustomDialogs&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/Alvaro-net/ShowResponse">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro-net&repo=ShowResponse&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=Alvaro-net&repo=ShowResponse&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/UnitTestPersonal/Manualtest">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/UnitTestPersonal/Manualtest">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/cobolfatec/atividade1">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade1&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade1&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/cobolfatec/atividade2">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade2&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade2&theme=highcontrast&locale=en"/>
   <a>
   </a href="https://github.com/cobolfatec/atividade3">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade3&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade3&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/cobolfatec/atividade4">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade4&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade4&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/cobolfatec/atividade5">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade5&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade5&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/cobolfatec/atividade6">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cobolfatec&repo=atividade-6&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade-6&theme=highcontrast&locale=en"/>
   </a>
   </div>
