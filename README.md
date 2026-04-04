@@ -113,21 +113,16 @@
     <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=Alvaro-net&repo=CustomDialogs&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/Alvaro-net/ShowResponse">
-    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=Alvaro-net&repo=ShowResponse&theme=highcontrast&locale=en"/>
-  </a>
-  <a href="https://github.com/UnitTestPersonal/Manualtest">
-    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
-  </a>
-  <a href="https://github.com/UnitTestPersonal/Manualtest">
-    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=UnitTestPersonal&repo=Manualtest&theme=highcontrast&locale=en"/>
+    <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=Alvaro-net&repo=ShowResponse&theme=highcontrast&locale=pt-br"/>
   </a>
   <a href="https://github.com/cobolfatec/atividade1">
     <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade1&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/cobolfatec/atividade2">
     <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade2&theme=highcontrast&locale=en"/>
-  <a>
-  </a href="https://github.com/cobolfatec/atividade3">
+  </a>
+
+  <a href="https://github.com/cobolfatec/atividade3">
     <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade3&theme=highcontrast&locale=en"/>
   </a>
   <a href="https://github.com/cobolfatec/atividade4">
@@ -136,7 +131,7 @@
   <a href="https://github.com/cobolfatec/atividade5">
     <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade5&theme=highcontrast&locale=en"/>
   </a>
-  <a href="https://github.com/cobolfatec/atividade6">
+  <a href="https://github.com/cobolfatec/atividade-6">
     <img width="33%" src="https://github-readme-stats-iota-three-69.vercel.app/api/pin/?username=cobolfatec&repo=atividade-6&theme=highcontrast&locale=en"/>
   </a>
   </div>
